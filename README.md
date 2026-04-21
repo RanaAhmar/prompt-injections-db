@@ -39,21 +39,6 @@ You can use this repository to evaluate the robustness of your AI agents or RAG 
 
 We welcome submissions of new, novel attack vectors! Please review our `CONTRIBUTING.md` guidelines before submitting a Pull Request to ensure the payload is categorized correctly.
 
----
-
-## 🏢 About Stackaura
-
-Prompt Injections DB is maintained by **Stackaura**. We specialize in providing top-tier digital solutions, focusing on cutting-edge web development, premium branding, scalable backend architecture, and AI security engineering designed to elevate your business securely.
-
-**Ready to build something amazing?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our services and how we can help scale and secure your next AI project.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -72,3 +57,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
